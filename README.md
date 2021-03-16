@@ -1,2 +1,10 @@
 # hello-world
-Is it main or master?
+Sub MacroCheck()
+
+    Dim testMessage As String
+
+    testMessage = "Hello World!"
+
+    MsgBox (testMessage)
+
+End Sub
